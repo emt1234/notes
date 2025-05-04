@@ -1,0 +1,6 @@
+[submodule "orgs"]
+	path = orgs
+	url = git@emt.github.com:emt1234/orgs.git
+[submodule "facilities"]
+	path = facilities
+	url = git@emt.github.com:emt1234/facilities.git

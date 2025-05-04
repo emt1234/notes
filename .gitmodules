@@ -4,3 +4,6 @@
 [submodule "facilities"]
 	path = facilities
 	url = git@emt.github.com:emt1234/facilities.git
+[submodule "codes"]
+	path = codes
+	url = git@emt.github.com:emt1234/door-codes.git

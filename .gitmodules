@@ -7,3 +7,6 @@
 [submodule "codes"]
 	path = pin-codes
 	url = git@emt.github.com:emt1234/door-codes.git
+[submodule "medical"]
+	path = medical
+	url = git@emt.github.com:emt1234/medical.git

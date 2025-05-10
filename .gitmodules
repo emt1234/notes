@@ -1,12 +1,12 @@
 [submodule "orgs"]
 	path = orgs
-	url = git@emt.github.com:emt1234/orgs.git
+	url = git@github.com:emt1234/orgs.git
 [submodule "facilities"]
 	path = facilities
-	url = git@emt.github.com:emt1234/facilities.git
+	url = git@github.com:emt1234/facilities.git
 [submodule "codes"]
 	path = pin-codes
-	url = git@emt.github.com:emt1234/door-codes.git
+	url = git@github.com:emt1234/door-codes.git
 [submodule "medical"]
 	path = medical
-	url = git@emt.github.com:emt1234/medical.git
+	url = git@github.com:emt1234/medical.git
